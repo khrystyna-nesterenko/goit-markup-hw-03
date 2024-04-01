@@ -262,12 +262,12 @@ text-decoration: underline;
         display: flex;
         flex-wrap: wrap;
         gap: 24px;
+        row-gap: 48px;
 }
 
 .porfolio-item {
         width: calc((100% - 48px) / 3);
         column-gap: 24px;
-        row-gap: 48px;
 }
 
 .container-portfolio-np {
